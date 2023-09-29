@@ -32,6 +32,7 @@ LRESULT CALLBACK windows_window_callback(HWND window, UINT msg,
 {
     LRESULT result = 0;
     //this is a dumb change
+    //second change
 
     switch(msg)
     {
